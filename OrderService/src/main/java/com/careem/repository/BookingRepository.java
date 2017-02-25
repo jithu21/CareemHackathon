@@ -1,6 +1,6 @@
 package com.careem.repository;
 
-import com.careem.models.Booking;
+import com.careem.hack.models.Booking;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.transaction.annotation.Transactional;
 

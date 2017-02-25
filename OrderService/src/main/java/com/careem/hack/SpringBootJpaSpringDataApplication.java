@@ -13,7 +13,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @EnableAutoConfiguration
 @EnableJpaRepositories(basePackages = {"com.careem.repository"})
-@EntityScan(basePackages = {"com.careem.models"})
+@EntityScan(basePackages = {"com.careem.hack.models"})
 @ComponentScan("com.careem")
 public class SpringBootJpaSpringDataApplication {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package com.careem.controller;
 
 import java.util.Date;
 
-import com.careem.models.Booking;
+import com.careem.hack.models.Booking;
 import com.careem.repository.BookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;

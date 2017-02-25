@@ -1,4 +1,4 @@
-package com.careem.models;
+package com.careem.hack.models;
 
 import java.io.Serializable;
 import java.util.Date;
